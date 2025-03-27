@@ -1,0 +1,10 @@
+scipy
+IPython
+wave
+scikit-learn
+numpy
+python_speech_features
+flask
+Werkzeug
+pymongo
+bson
